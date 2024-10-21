@@ -5,7 +5,7 @@
 </div> -->
 
 <div style="display: flex; row-gap: 10px; flex-direction: column; align-items: center;">
-<div style="background-color: #ffe500; color: white; font-size: 2.5rem; font-weight: bold; padding: 0px 5px; display: inline-grid; font-family: 'Inter', sans-serif;"> hello, i'm goiana</div>
+<img src="title.png">
 
 ```css
 goiana {
