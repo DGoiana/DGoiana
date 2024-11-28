@@ -12,10 +12,12 @@
 const goiana = {
    enrolling: informatics/computing engineering,
    from: portugal,
-   ask_me: [football, universe, new software],
-   music: [frank ocean, loyle carner],
-   show: [friends, ted lasso],
-   looking_forward: more open-source contributions,
+   ask_me: [football, universe, new software, music],
+   music: [(frank ocean, white ferrari), (jcole, love yourz)],
+   show: [friends, ted lasso, harry potter],
+   looking_forward: [more open-source contributions, internship, more reading],
+   tech: [flutter, react, next, vue, c/c++, python],
+   hobbies: [coding, scouts, hiking]
 }
 
 ```
